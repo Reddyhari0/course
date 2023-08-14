@@ -3,7 +3,7 @@
 <html>
 <head>
     <title>My First HTML Page</title>
-</head>
+</head> 
 <body>
     <h1>Welcome to My Web Page</h1>
     <p>This is a simple example of an HTML page.</p>
